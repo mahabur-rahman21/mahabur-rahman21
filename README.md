@@ -1,27 +1,33 @@
-## Hi there 👋
+<h1 align="left">👋 Hi, I'm Mahabur Rahman</h1>
 
-I'm a MERN Stack Web Developer passionate about building clean, scalable, and user-friendly web applications. I enjoy solving real-world problems through code and always strive to improve my skills and explore new technologies.
+###
 
-### About me
+<p align="left">I'm a MERN Stack Web Developer with a deep interest in Web3, crypto, and automation tools. I enjoy turning ideas into real-world apps that are fast, scalable, and user-friendly.<br><br>💻 Tech Stack: MongoDB, Express.js, React, Node.js<br><br>🔥 Passionate about: Web3, Crypto, AI<br><br>🚀 Currently exploring: Firebase, advanced backend systems<br><br>🌐 Portfolio: mahabur.xyz<br><br>Let's collaborate and create something impactful!</p>
 
-🐞 Creating bugs since: 2019  
-📚 I'm currently learning: Firebase, Express.js, and advanced backend concepts  
-🎯 Goals: To build impactful full-stack web apps and contribute to open source  
-😄 Fun fact: I can spend hours debugging and still say “just one more try…” 😅
+###
 
-### 🧠 Skills
+<h2 align="left">About me</h2>
 
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS  
-- Backend: Node.js, Express.js, Firebase  
-- Database: MongoDB, Firebase Realtime DB  
-- Tools: Git, GitHub, VS Code, Postman  
+###
 
-### 📌 Featured Projects
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Firebase, Express.js, and advanced backend concepts<br>🎯 Goals: To build impactful full-stack web apps and contribute to open source<br>🎲 Fun fact: I can spend hours debugging and still say “just one more try…” 😅</p>
 
-Check out some of my favorite/pinned projects below 👇  
+###
 
-### 📫 Connect with me
+<h2 align="left">I code with</h2>
 
-- Portfolio: [mahabur.xyz](https://mahabur.xyz)  
-- LinkedIn: [linkedin.com/in/your-username](#)  
-- Email: your.email@example.com  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
