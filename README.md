@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahabur-rahman21.mahabur-rahman21">
+<img align="right" src="https://View-badge.laobi.icu/badge?page_id=mahabur-rahman21.mahabur-rahman21">
 <h1 align="left">👋 Hi, I'm Mahabur Rahman</h1>
 
 ###
