@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Firebase, Express.js, and advanced backend concepts<br>🎯 Goals: To build impactful full-stack web apps and contribute to open source<br>🎲 Fun fact: I can spend hours debugging and still say “just one more try…” 😅</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Advanced Express.js and MongoDB optimization<br>🎯 Goals: To build impactful full-stack web apps and contribute to open source<br>🎲 Fun fact: I can spend hours debugging and still say “just one more try…” 😅</p>
 
 ###
 
